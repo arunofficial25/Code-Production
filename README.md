@@ -1,9 +1,9 @@
 
-# Amazon Prime Video - (Clone)
+# Code-Production
 
+It is a clone of Amazon Prime Video.
 Amazon Prime Video is an American subscription video on-demand over-the-top streaming and rental service of Amazon offered as a standalone service or as part of Amazon's Prime subscription. 
 
-A Collaborative project built by a team of 3 executed in 7 days.
 
 
 ![Logo](https://m.media-amazon.com/images/G/01/primevideo/seo//primevideo-seo-logo._CB1544649803_.png)
@@ -11,7 +11,7 @@ A Collaborative project built by a team of 3 executed in 7 days.
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience](https://amazonprime-clone.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](code-production.vercel.app)
 
 ## How to get Started 🚀
 
@@ -61,7 +61,7 @@ download the .zip file.  Extract the contents of the zip file, then open your te
 
 ## Responsibilities 💪
 
-- Team Lead in mananging & directing overall project's structure to deliver it within the deadlines.
+- I am mananging & directing overall project's structure to deliver it within the deadlines.
 - Landing page UI built on styled components, MUI Icons & BootStrap 5 components i.e.; Button Fade, etc.
 - Login & Registration Page with implementaion of Firebase Database and LocalStorage
 - Static Payment Page created using styled components and MUI icons as this project primarily focuses on front-end.
@@ -111,9 +111,7 @@ download the .zip file.  Extract the contents of the zip file, then open your te
 
 ## Contributors  😇
 
-- 👤 [Biswaranjan](https://www.github.com/icyflame21) (Team Lead)
-- 👤 [Rajan Kumar](https://www.github.com/Rajan1397)
-- 👤 [Abhijeet Sinha](https://www.github.com/Abhijeetsinha471)
+- 👤 [Arun](https://www.github.com/arunofficial25)
 
 
 
