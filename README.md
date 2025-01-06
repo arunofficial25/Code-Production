@@ -11,7 +11,7 @@ Amazon Prime Video is an American subscription video on-demand over-the-top stre
 
 ## Demo 🎥
 
-- Deployed Link:- [Enjoy the Experience]([code-production.vercel.app](https://code-production.vercel.app/))
+- Deployed Link:- [Enjoy the Experience](https://code-production.vercel.app)
 
 ## How to get Started 🚀
 
